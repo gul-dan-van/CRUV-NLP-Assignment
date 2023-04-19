@@ -1,0 +1,11 @@
+nltk
+sklearn
+pandas
+numpy
+textstat
+spacy
+math
+re
+stop_words
+sent2vec
+transformers
